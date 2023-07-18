@@ -1,0 +1,18 @@
+---
+title: "Страница поддержки — Simple Local Weather"
+date: 2023-07-18T03:20:37+05:00
+draft: false
+cover:
+    image: img/weather-tv.jpg
+---
+
+![](img/weather-tv.jpg)
+
+### Простое приложение погоды для tvOS.
+
+Поставщик данных [OpenWeather](https://openweathermap.org)
+	
+Если у вас возникли какие-то вопросы, проблемы или предложения по развитию приложения Simple Local Weather, вы можете [связаться с разработчиком](mailto:ageres7@gmail.com?subject=%5WeatherTV%5D%20Support) и получить ответ в кратчайшие сроки.
+
+С уважением, 
+Сергей Долгих

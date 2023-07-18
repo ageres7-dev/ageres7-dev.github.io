@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on ageres7-dev</title>
+    <link>https://ageres7-dev.github.io/ageres7-dev/tags/</link>
+    <description>Recent content in Tags on ageres7-dev</description>
+    <image>
+      <title>ageres7-dev</title>
+      <url>https://ageres7-dev.github.io/ageres7-dev/me.png</url>
+      <link>https://ageres7-dev.github.io/ageres7-dev/me.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language><atom:link href="https://ageres7-dev.github.io/ageres7-dev/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
