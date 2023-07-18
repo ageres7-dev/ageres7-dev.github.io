@@ -12,7 +12,7 @@ cover:
 
 Поставщик данных [OpenWeather](https://openweathermap.org)
 	
-Если у вас возникли какие-то вопросы, проблемы или предложения по развитию приложения Simple Local Weather, вы можете [связаться с разработчиком](mailto:ageres7@gmail.com?subject=%5WeatherTV%5D%20Support) и получить ответ в кратчайшие сроки.
+Если у вас возникли какие-то вопросы, проблемы или предложения по развитию приложения Simple Local Weather, вы можете [связаться с разработчиком](mailto:ageres7@gmail.com?subject=WeatherTV%20Support) и получить ответ в кратчайшие сроки.
 
 С уважением, 
 Сергей Долгих
