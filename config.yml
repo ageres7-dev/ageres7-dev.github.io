@@ -3,7 +3,6 @@ languageCode: ru-RU
 title: ageres7-dev
 theme: PaperMod
 paginate: 5
-publishDir: "docs"
 
 enableRobotsTXT: true
 buildDrafts: true
