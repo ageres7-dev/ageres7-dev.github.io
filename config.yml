@@ -65,7 +65,6 @@ params:
   # Necessary for post nav links to show up on /posts and /projects
   # https://github.com/adityatelange/hugo-PaperMod/issues/940
   mainSections:
-    - privacy
     - projects
 
   assets:
@@ -164,10 +163,6 @@ menu:
       name: Проекты
       url: /projects/
       weight: 1
-    - identifier: privacy
-      name: Политика конфиденциальности
-      url: /privacy/
-      weight: 2
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
