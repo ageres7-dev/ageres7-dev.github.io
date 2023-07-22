@@ -8,9 +8,11 @@ cover:
 
 ![](img/weather-tv.jpg)
 
-### Простое приложение погоды для tvOS.
+### Простое приложение погоды для tvOS
 
 Поставщик данных [OpenWeather](https://openweathermap.org)
+
+Исходный код приложения доступен на [GitHub](https://github.com/ageres7-dev/WeatherTV)
 	
 Если у вас возникли какие-то вопросы, проблемы или предложения по развитию приложения Simple Local Weather, вы можете [связаться с разработчиком](mailto:ageres7@gmail.com?subject=WeatherTV%20Support) и получить ответ в кратчайшие сроки.
 
