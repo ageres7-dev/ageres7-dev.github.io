@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 pluralizeListTitles: false
 
-# googleAnalytics: G-Q603T56FWT
+googleAnalytics: G-MPCCPNVF2G
 
 minify:
   disableXML: true
