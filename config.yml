@@ -117,6 +117,8 @@ params:
       url: "https://t.me/ageres7"
     - name: email
       url: "mailto:ageres7@gmail.com"
+    - name: github
+      url: "https://github.com/ageres7-dev"
 
   # analytics:
   #   google:
