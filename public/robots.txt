@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ageres7-dev.github.io/ageres7-dev/sitemap.xml
