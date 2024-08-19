@@ -166,6 +166,11 @@ menu:
       url: /projects/
       weight: 1
 
+    - identifier: posts
+      name: Статьи
+      url: /posts/
+      weight: 1
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 # Source: https://gohugo.io/getting-started/configuration-markup/#highlight
