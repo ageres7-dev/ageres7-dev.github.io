@@ -10,7 +10,7 @@ cover:
 
 ### Материалы к докладу на конференции ITFest Оренбург 2024
 
-* [Файл презентации](files/kak-my-ne-vypustili-carplay.pptx)
+* [Файл презентации](files/kak-my-ne-vypustili-carplay.pdf)
 * [Доклад об применяемой архитектуре в iOS приложении 1С-Коннект](https://youtu.be/-RqNPshitEQ?si=_tvyA5NDtXleOmsL)
 * [Подача заявки для получения разрешения на использования CarPlay](https://developer.apple.com/documentation/carplay/requesting-carplay-entitlements)
 * [CarPlay for developers](https://developer.apple.com/carplay/)
