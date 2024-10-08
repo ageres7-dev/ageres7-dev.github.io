@@ -6,7 +6,7 @@ cover:
     image: files/carplay-cover.jpg
 ---
 
-![](files/carplay-cover.jpg)
+{{< vkvideo oid="-30831962" id="456239167" hd="2" >}}
 
 ### Материалы к докладу на конференции ITFest Оренбург 2024
 
