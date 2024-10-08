@@ -1,6 +1,6 @@
 ---
 title: "Как мы (не)выпустили CarPlay"
-date: 2024-07-29T13:17:35+05:00
+date: 2024-09-13T13:17:35+05:00
 draft: false
 cover:
     image: files/carplay-cover.jpg
@@ -8,7 +8,7 @@ cover:
 
 {{< vkvideo oid="-30831962" id="456239167" hd="2" >}}
 
-### Материалы к докладу на конференции ITFest Оренбург 2024
+### Материалы к докладу на конференции [IT Fest Oren 2024](https://itfest-oren.ru)
 
 * [Файл презентации](files/kak-my-ne-vypustili-carplay.pdf)
 * [Доклад об применяемой архитектуре в iOS приложении 1С-Коннект](https://youtu.be/-RqNPshitEQ?si=_tvyA5NDtXleOmsL)
