@@ -62,6 +62,8 @@ jobs:
         with:
           path: ./public
           name: github-pages
+      - name: List artifact directory
+        run: ls -la ${{ github.workspace }}
   # Deployment job
   deploy:
     environment:
