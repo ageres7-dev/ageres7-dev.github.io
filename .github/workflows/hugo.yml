@@ -61,9 +61,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-      - name: Проверка содержимого public/
-        run: ls -la ./public
-
+          name: github-pages
   # Deployment job
   deploy:
     environment:
