@@ -1,0 +1,11 @@
+- id: home
+  translation: "Главная"
+
+- id: posts
+  translation: "Статьи"
+
+- id: breadcrumbs.home
+  translation: "Главная"
+
+- id: breadcrumbs.posts
+  translation: "Статьи"
