@@ -1,6 +1,6 @@
 ---
 title: "Мелкие улучшения чата, говорили они… Вышло полгода боли. Custom UICollectionViewLayout"
-date: 2025-09-12T10:30:00+05:00
+date: 2025-08-28T16:15:31+05:00
 draft: false
 cover:
     image: files/collection-cover.jpg
